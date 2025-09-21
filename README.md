@@ -21,7 +21,7 @@ python3 stegoscope.py <image file>
 - [x] File analysis prints size, entropy, and sample strings.
 
 ###  In Progress
-- [ ] Implement LSB (least significant bit) detection for PNG/JPEG images.
+- [x] Implement LSB (least significant bit) detection for PNG/JPEG images.
 - [ ] Add export options (CSV/JSON for results).
 - [ ] Improve CLI interface with argparse (custom file input).
 
