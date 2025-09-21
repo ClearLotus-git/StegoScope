@@ -9,7 +9,7 @@ StegoScope is a forensic tool for detecting **hidden payloads** in files using e
 
 ## Usage
 ```bash
-python3 stegoscope.py
+python3 stegoscope.py <image file>
 ```
 
 ##  Roadmap
